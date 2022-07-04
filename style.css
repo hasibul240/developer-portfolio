@@ -6,60 +6,73 @@ body {
 h1 {
     font-size: 50px;
 }
-h2{
+
+h2 {
     font-size: 40px;
 }
-.orenge-color{
+
+.orenge-color {
     color: orange;
 }
-.flexyble-container{
+
+.flexyble-container {
     display: flex;
     margin-bottom: 150px;
 }
-.half-width{
+
+.half-width {
     width: 50%;
     padding: 2%;
 }
-.half-width img{
+
+.half-width img {
     width: 80%;
 }
-.anchor-button{
+
+.anchor-button {
     text-decoration: none;
     background: linear-gradient(45deg, lightsalmon, tomato);
-    color:white;
+    color: white;
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
 }
-.top-banner{
+
+.top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-.dream-area{
+
+.dream-area {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
-.experience-area{
+
+.experience-area {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
-.experience-item{
+
+.experience-item {
     width: 40%;
     box-shadow: 10px 10px 40px gray;
     padding-left: 30px;
     border-radius: 10px;
     margin-left: 5%;
     margin-right: 5%;
-    
+
 }
-#full-stack-developer{
+
+#full-stack-developer {
     border-left: 7px solid tomato;
 }
-#baby-developer{
+
+#baby-developer {
     border-left: 7px solid blue;
 }
-footer p{
+
+footer p {
     text-align: center;
 }
